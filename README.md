@@ -5,15 +5,19 @@ Data is part of Exclusive_Diffractive_JPSI_ABCONV_9x130 set
 The data ready for campaign production can be found : root://dtn-eic.jlab.org//work/eic3/users/Olaiya/9x130_GeV/
 
 Further Info:
-Number of events: 19034
-Beam: 9x130
-Lum: 1fb-1
-Q2 range: 1<Q^2<10
+Number of events: 19034 ;
+
+Beam: 9x130 ;
+
+Lum: 1fb-1 ;
+
+Q2 range: 1<Q^2<10 ;
+
 0.001<y<1
 
 Total accepted cross section [nb]: 3.187455e-01 ;
 Partial accepted cross section with BR [nb]: 1.903229e-02 ;
-Acceptance [%]: 99.994747 ;
+Acceptance [%]: 99.994747 
 
 Generator Level Plots:
 

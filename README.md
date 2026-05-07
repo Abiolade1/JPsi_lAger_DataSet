@@ -11,9 +11,9 @@ Lum: 1fb-1
 Q2 range: 1<Q^2<10
 0.001<y<1
 
-Total accepted cross section [nb]: 3.187455e-01
-Partial accepted cross section with BR [nb]: 1.903229e-02
-Acceptance [%]: 99.994747
+Total accepted cross section [nb]: 3.187455e-01 ;
+Partial accepted cross section with BR [nb]: 1.903229e-02 ;
+Acceptance [%]: 99.994747 ;
 
 Generator Level Plots:
 

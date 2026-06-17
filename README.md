@@ -1,4 +1,4 @@
-Data generated with lAger 3.7.0 - **./bin/lager -c desire_directory_with_your_file/the_file.json -r 1 -o desire_directory_where_you_want _output** 
+Data generated with lAger 3.6.1 - **./bin/lager -c desire_directory_with_your_file/the_file.json -r 1 -o desire_directory_where_you_want _output** 
 
 Data passed through afterburner with preset ip6_ep_130x9 using **abconv -p "ip6_ep_130x9" desire_directory_with_your_file/the_file.hepmc** from the generator
 

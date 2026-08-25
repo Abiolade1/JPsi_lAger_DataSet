@@ -6,14 +6,15 @@ Data converted to hepmc3.tree.root using - git clone https://github.com/eic/hepm
 
 
 Data is part of **Exclusive_Diffractive_JPSI_ABCONV_9x130** dataset
+Data is part of **Exclusive_Diffractive_JPSI_ABCONV_9x275** dataset
 
 
-The data ready for campaign production can be found : **root://dtn-eic.jlab.org//work/eic3/users/Olaiya/9x130_GeV/**
+The data ready for campaign production can be found : **root://dtn-eic.jlab.org//work/eic3/users/Olaiya/9x130_GeV/** and **root://dtn-eic.jlab.org//work/eic3/users/Olaiya/9x275_GeV/**
 
 Further Info:
-Number of events: 19034 ;
-
 Beam: 9x130 ;
+
+Number of events: 19034 ;
 
 Lum: 1fb-1 ;
 
@@ -26,6 +27,24 @@ Total accepted cross section [nb]: 3.187455e-01 ;
 Partial accepted cross section with BR [nb]: 1.903229e-02 ;
 
 Acceptance [%]: 99.994747 
+
+
+Beam: 9x275 ;
+
+Number of events: 68977 ;
+
+Lum: 2.5fb-1 ;
+
+Q2 range: 1<Q^2<10 ;
+
+y range: 0.001<y<1
+
+Total accepted cross section [nb]: 4.620712e-01 ;
+
+Partial accepted cross section with BR [nb]: 2.759027e-02 ;
+
+Acceptance [%]: 99.998550 
+
 
 Generator Level Plots:
 

@@ -2,6 +2,8 @@ Data generated with lAger 3.6.1 - **./bin/lager -c desire_directory_with_your_fi
 
 Data passed through afterburner with preset ip6_ep_130x9 using **abconv -p "ip6_ep_130x9" desire_directory_with_your_file/the_file.hepmc** from the generator
 
+Data passed through afterburner with preset ip6_hiacc_275x9 using **abconv -p "ip6_hiacc_275x9" desire_directory_with_your_file/the_file.hepmc**
+
 Data converted to hepmc3.tree.root using - git clone https://github.com/eic/hepmc3ascii2root -> cmake -S . -B build -> ./build/hepmc3ascii2root input_file output_file done inside the eic-shell
 
 

@@ -56,4 +56,17 @@ Generator Level Plots:
 [c2.pdf](https://github.com/user-attachments/files/27489021/c2.pdf)
 [c1.pdf](https://github.com/user-attachments/files/27489020/c1.pdf)
 
+New DataSet (Sept 2026)
+Configuration: 9x130 
+Lum: 52fb-1
+Number of events: 982,976
+Total accepted cross section [nb]: 3.165866e-01
+
+Configuration: 9x275
+Lumi: 15fb-1
+Number of events: 961,584
+Total accepted cross section [nb]: 4.601208e-01
+
+Location on JLab: **root://dtn-eic.jlab.org//work/eic3/users/Olaiya/new_9x130_GeV/** and **root://dtn-eic.jlab.org//work/eic3/users/Olaiya/new_9x275_GeV/**
+
 
